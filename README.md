@@ -4,7 +4,7 @@ Frogger-Classic-Arcade-game
 
 This game was made to practice Object-Oriented JavaScript which is a part of a course in the Udacity Front-End Web Nanodegree program. Used Object object oriented javascript principles, HTML and CSS to create this game. 
 
-*** HOW TO RUN ***
+*** HOW TO RUN THE GAME ***
 
 To start the game you must run the index.html file in a browser.
 
